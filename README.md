@@ -148,7 +148,7 @@ class PlaceModel extends TouristItem {
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR\_USERNAME/jordan\_tourism\_guide.git
+git clone https://github.com/Fadwa0/jordan_tourism_guide.git
 
 # Navigate to project folder
 cd jordan\_tourism\_guide
