@@ -64,7 +64,7 @@ class AboutScreen extends StatelessWidget {
           ),
           const SizedBox(height: 14),
           Text(
-            'Fadwa',
+            'Fadwa Feras',
             style: GoogleFonts.poppins(
               fontSize: 20,
               fontWeight: FontWeight.w700,
