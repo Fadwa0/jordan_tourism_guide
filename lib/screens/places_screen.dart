@@ -78,7 +78,7 @@ class _PlacesScreenState extends State<PlacesScreen> {
               onChanged: _onSearchChanged,
               style: GoogleFonts.poppins(fontSize: 14, color: Colors.white),
               decoration: InputDecoration(
-                hintText: 'Search by name, category, or location ...',
+                hintText: 'Search places by name, category, or location',
                 hintStyle:
                     GoogleFonts.poppins(color: Colors.white54, fontSize: 13),
                 prefixIcon:
@@ -123,7 +123,7 @@ class _PlacesScreenState extends State<PlacesScreen> {
                     duration: const Duration(milliseconds: 200),
                     margin: const EdgeInsets.only(right: 8),
                     padding: const EdgeInsets.symmetric(horizontal: 14),
-                    alignment: Alignment.center,  // ← التعديل هون
+                    alignment: Alignment.center,  
                     decoration: BoxDecoration(
                       color: isSelected
                           ? const Color(0xFFB8860B)
