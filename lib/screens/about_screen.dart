@@ -54,7 +54,7 @@ class AboutScreen extends StatelessWidget {
             radius: 46,
             backgroundColor: const Color(0xFFB8860B),
             child: Text(
-              'FA',   // ← بدّل بأول حرفين من اسمك
+              'FA',  
               style: GoogleFonts.poppins(
                 fontSize: 26,
                 fontWeight: FontWeight.w800,
