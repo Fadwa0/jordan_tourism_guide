@@ -48,7 +48,7 @@ class PlaceController {
           'oval-shaped forum, two Roman theatres, and dozens of temples and churches. '
           'The city dates back over 6,500 years and reached its peak during the Roman period. '
           'Every year, the famous Jerash Festival of Culture and Arts brings the ancient city to life.',
-      imageUrl: 'assets/images/jerash.jpg',   // ← حط صورة jerash.jpg في assets/images/
+      imageUrl: 'assets/images/jerash.jpg',   
       isAsset: true,
       rating: 4.8,
       visitInfo: 'Open daily 8:00 AM – 5:00 PM. Entry fee: 10 JOD. '
@@ -110,7 +110,7 @@ class PlaceController {
           'Its extremely high salt concentration (around 34%) makes it impossible to sink. '
           'The mineral-rich mud is famous for its healing and beautifying properties. '
           'The serene landscape with the Judean Hills makes it truly unforgettable.',
-      imageUrl: 'assets/images/dead_sea.jpg',  // ← حط صورة dead_sea.jpg في assets/images/
+      imageUrl: 'assets/images/dead_sea.jpg',  
       isAsset: true,
       rating: 4.7,
       visitInfo: 'Open year-round. Best visited in winter to avoid extreme heat. '
@@ -127,7 +127,7 @@ class PlaceController {
           'It stands 817 meters above sea level with a breathtaking view over the Jordan Valley and the Dead Sea. '
           'The summit houses an ancient Byzantine church with beautifully preserved 6th-century mosaics. '
           'It is considered one of Christianity\'s most sacred pilgrimage sites.',
-      imageUrl: 'assets/images/mount_nebo.jpg',  // ← حط صورة mount_nebo.jpg في assets/images/
+      imageUrl: 'assets/images/mount_nebo.jpg',  
       isAsset: true,
       rating: 4.6,
       visitInfo: 'Open daily 8:00 AM – 5:00 PM. Entry fee: 3 JOD. '
@@ -142,7 +142,7 @@ class PlaceController {
           'It is widely believed to be where John the Baptist baptised Jesus Christ. '
           'Archaeological excavations uncovered churches, pools, and hermit caves from the Byzantine period. '
           'Pilgrims from across the world visit to pray and touch the waters of the Jordan River.',
-      imageUrl: 'assets/images/baptism_site.jpg',  // ← حط صورة baptism_site.jpg في assets/images/
+      imageUrl: 'assets/images/baptism_site.jpg',  
       isAsset: true,
       rating: 4.5,
       visitInfo: 'Open daily 8:00 AM – 5:00 PM. Entry fee: 12 JOD (includes guided tour). '
@@ -159,7 +159,7 @@ class PlaceController {
           'Its crystal-clear waters are world-famous for scuba diving and snorkelling with vibrant coral reefs. '
           'Visitors enjoy water sports like kitesurfing, glass-bottom boat tours, and deep-sea fishing. '
           'The city also offers a lively waterfront promenade and excellent seafood restaurants.',
-      imageUrl: 'assets/images/aqaba.jpg',  // ← حط صورة aqaba.jpg في assets/images/
+      imageUrl: 'assets/images/aqaba.jpg',  
       isAsset: true,
       rating: 4.7,
       visitInfo: 'Best visited October – April. '
@@ -174,7 +174,7 @@ class PlaceController {
           'from sandstone cliffs to desert wadis and fertile valleys. '
           'It is a paradise for hikers with over 800 plant species, 215 bird species, and 38 mammal species. '
           'Several well-marked hiking trails range from easy walks to multi-day treks.',
-      imageUrl: 'assets/images/dana.jpg',  // ← حط صورة dana.jpg في assets/images/
+      imageUrl: 'assets/images/dana.jpg',  
       isAsset: true,
       rating: 4.6,
       visitInfo: 'Open year-round; best in spring and autumn. '
