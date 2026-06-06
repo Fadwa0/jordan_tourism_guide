@@ -40,7 +40,7 @@ class _MainScreenState extends State<MainScreen> {
         selectedLabelStyle: GoogleFonts.poppins(fontWeight: FontWeight.w600, fontSize: 11),
         unselectedLabelStyle: GoogleFonts.poppins(fontSize: 11),
         backgroundColor: Colors.white,
-        elevation: 12,
+        elevation: 12, 
         type: BottomNavigationBarType.fixed,
         items: const [
           BottomNavigationBarItem(
